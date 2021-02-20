@@ -463,7 +463,7 @@ Si nosotros imprimiéramos estos métodos constructores:
 
 Tendremos dos impresiones correspondientes a los dos métodos constructores que hemos creado.
 
-**Palabra clave this**
+**Palabra clave this***
 
 La palabra clave **this()** es un método miembro de un objeto está asociado al objeto. Cuando este se está ejecutando podemos usar this, para conseguir una referencia al objeto asociado. Usado para evitar conflictos de nombres en el método / constructor de su instancia / objeto.
 
